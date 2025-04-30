@@ -5,6 +5,7 @@ The objective of this project is to analyze a dataset of movies to uncover insig
 
 ## Correlation Analysis
 The central objective of this project was to identify correlations between the variables for the following purposes:
+
 **1.Understanding Relationships:** 
 To uncover significant relationships between key features such as budget, gross earnings, and movie scores, providing insights into how different factors influence movie success.
 
