@@ -65,3 +65,8 @@ Create a scatter plot to visualize the relationship between budget and gross ear
 
 **16.Numerical Data Factorization:**
 Factorize categorical columns and visualize the correlation matrix
+
+
+## Conclusion
+
+The project provided a comprehensive analysis of the movie dataset, uncovering valuable insights and guiding future data-driven decisions in the movie industry. The findings can be leveraged to optimize budget allocation, improve marketing strategies, and enhance the overall success of movie productions.
