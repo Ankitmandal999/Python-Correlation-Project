@@ -3,6 +3,19 @@
 
 The objective of this project is to analyze a dataset of movies to uncover insights related to missing data, data types, outliers, correlations, and revenue trends among movie companies. The analysis involves data cleaning, visualization, and statistical analysis using Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib.
 
+## Correlation Analysis
+The central objective of this project was to identify correlations between the variables for the following purposes:
+**1.Understanding Relationships:** 
+To uncover significant relationships between key features such as budget, gross earnings, and movie scores, providing insights into how different factors influence movie success.
+
+**2.Feature Selection:**
+To guide the selection of relevant features for predictive modeling and analysis, ensuring that the chosen variables contribute meaningfully to the project's objectives.
+
+**3.Data Visualization:**
+To visualize data patterns and relationships using heatmaps, facilitating better decision-making and a deeper understanding of the dataset's structure and dynamics.
+
+
+
 ## Steps Involved:
 **1.Importing Libraries:**
 Import essential libraries for data manipulation and visualization
